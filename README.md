@@ -8,12 +8,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git" />
-
 <p align="center">
 
 <!-- SQL -->
@@ -47,7 +41,6 @@
 </div>
 
 </p>
----
 
 ## 📌 Featured Projects
 
