@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yaowang</h1>
-<h3 align="center">Data Analyst | Econometrics | Machine Learning</h3>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="150" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
-  🎓 UBC BIE | 📊 Incoming McGill MMA  
-</p>
-
----
 
 ## 🚀 About Me
 
