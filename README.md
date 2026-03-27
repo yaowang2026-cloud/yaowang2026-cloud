@@ -7,39 +7,36 @@
 - 💼 Target: Data Analyst / Business Analytics / Risk  
 
 ---
-
+</p>
 <p align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<b>SQL</b>
+</td>
 
-<!-- SQL -->
-<div align="center" style="display: inline-block; margin: 15px;">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
-  <sub><b>SQL</b></sub>
-</div>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/><br>
+<b>Tableau</b>
+</td>
 
-<!-- Tableau -->
-<div align="center" style="display: inline-block; margin: 15px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/><br>
-  <sub><b>Tableau</b></sub>
-</div>
+<td align="center">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>
+<b>Power BI</b>
+</td>
 
-<!-- Power BI -->
-<div align="center" style="display: inline-block; margin: 15px;">
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>
-  <sub><b>Power BI</b></sub>
-</div>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<b>Python</b>
+</td>
 
-<!-- Python -->
-<div align="center" style="display: inline-block; margin: 15px;">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-  <sub><b>Python</b></sub>
-</div>
-
-<!-- R -->
-<div align="center" style="display: inline-block; margin: 15px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="50"/><br>
-  <sub><b>R</b></sub>
-</div>
-
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="50"/><br>
+<b>R</b>
+</td>
+</tr>
+</table>
 </p>
 
 ## 📌 Featured Projects
