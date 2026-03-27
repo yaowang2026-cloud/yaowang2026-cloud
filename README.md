@@ -1,116 +1,80 @@
-# Hi, I'm Yaowang 👋
+<h1 align="center">Hi 👋, I'm Yaowang</h1>
+<h3 align="center">Data Analyst | Econometrics | Machine Learning</h3>
 
-🎓 BIE @ University of British Columbia  
-🎯 Incoming Master of Management in Analytics @ McGill University  
-📍 Vancouver, Canada  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="150" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  🎓 UBC BIE | 📊 Incoming McGill MMA  
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a data-driven analyst with strong training in econometrics, machine learning, and financial analysis.
-
-My work focuses on:
-- 📊 Data analysis & visualization
-- 📈 Econometric modeling (OLS, IV/2SLS, DiD)
-- 🤖 Machine learning applications in business
-- 💡 Decision-making under uncertainty
-
-I enjoy translating data into actionable insights for business and policy.
+- 📊 Passionate about data analysis & econometrics  
+- 🤖 Interested in machine learning & AI in business  
+- 📈 Focus on decision-making under uncertainty  
+- 💼 Target: Data Analyst / Business Analytics / Risk  
 
 ---
 
-## 🧠 Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming & Data
-- **Python**: pandas, numpy, matplotlib, machine learning (XGBoost, RF, NN)
-- **R**: regression, causal inference, panel data
-- **SQL (Oracle)**: database design, joins, subqueries
+<p align="center">
 
-### 📊 Analytics & Econometrics
-- OLS / IV (2SLS) / DiD / Fixed Effects
-- Hypothesis testing & statistical inference
-- A/B testing & experimental design
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git" />
 
-### 📦 Tools
-- Stata / SPSS / Bloomberg / Wind
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Stata-Statistical-blue" />
+<img src="https://img.shields.io/badge/SPSS-Analytics-lightgrey" />
+<img src="https://img.shields.io/badge/Bloomberg-Finance-yellow" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🍽️ Market Research – Chop Steakhouse (Team Lead)
-- Designed full survey system to identify customer barriers
-- Improved email campaign:
-  - Open rate: **25% → 60%**
-  - Participation: **1.2% → 6%**
-- Applied regression + clustering + IPA analysis
-- Delivered actionable insights adopted by management
+### 📉 IPO Underpricing Research
+- IV (2SLS) + Fixed Effects
+- Credit risk spillover analysis
+- 2692 IPO dataset
+
+### 🍽️ Market Research (A/B Testing)
+- Email open rate: **25% → 60%**
+- Applied clustering + regression + IPA
+
+### 📊 Portfolio Optimization
+- Mean-variance + Sharpe optimization
+- Monte Carlo simulation
 
 ---
 
-### 🚧 Vision Zero Policy Analysis (CBA)
-- Built cost-benefit analysis framework (NPV, BCR)
-- Quantified social benefits using VSL & accident cost
-- Evaluated infrastructure vs enforcement vs education policies
-- Recommended high-impact, low-cost interventions
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:wycwinston@outlook.com">
+    <img src="https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### 📉 IPO Underpricing & Credit Risk (Research Assistant)
-- Studied impact of regional bond defaults on IPO pricing
-- Dataset: **2692 IPOs (2014–2023)**
-- Methods:
-  - Fixed effects regression
-  - IV (2SLS) using cultural proxy
-- Found significant spillover effects from credit markets
+## ⚡ Fun
 
----
+🏂 Snowboard | 🎿 Ski | ⛳ Golf
 
-### 📊 Portfolio Optimization (Team Lead)
-- Mean-variance optimization + Sharpe maximization
-- CAPM for expected returns
-- Monte Carlo simulation for risk analysis
-- Focus on downside risk & uncertainty
-
----
-
-## 💼 Experience
-
-### 🏦 Cigna-CMB Asset Management – Investment Analyst Intern
-- Built financial models (3 statements)
-- Identified risk signals (leverage, margins, cash flow)
-- Conducted scenario-based risk analysis
-
-### ⚡ Great Wall Securities – Industry Research Intern
-- Researched hydrogen energy & offshore wind
-- Built cost models (PEM vs Alkaline)
-- Supported earnings forecasts & reports
-
----
-
-## 📊 Interests
-
-- Data Science & Business Analytics  
-- Financial Markets & Risk  
-- AI Applications in Business  
-- Decision Science  
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: wycwinston@outlook.com  
-- 💼 LinkedIn: (add your link here)
-
----
-
-## ⚡ Fun Facts
-
-- 🏂 Snowboarding (CASI Level 1)
-- 🎿 Skiing (CSIA Level 2)
-- ⛳ Golf (Handicap 15)
-
----
-
-⭐️ Feel free to check out my repositories and projects!
