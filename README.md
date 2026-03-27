@@ -42,6 +42,7 @@ Power BI
 </table>
 
 </p>
+
 ---
 
 ## 📌 Featured Projects
