@@ -1,5 +1,3 @@
-# Hi, I'm Yaowang 👋
-
 <p align="center">
   <a href="#english"><b>🇺🇸 English</b></a> |
   <a href="#中文"><b>🇨🇳 中文</b></a>
