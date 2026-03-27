@@ -7,37 +7,42 @@
 - 💼 Target: Data Analyst / Business Analytics / Risk  
 
 ---
-</p>
+## ⚙️ Tools I Work With
 <p align="center">
-<table>
+
+<table align="center">
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
-<b>SQL</b>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br>
+Python
 </td>
 
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/><br>
-<b>Tableau</b>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
+SQL
 </td>
 
-<td align="center">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>
-<b>Power BI</b>
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="60"/><br>
+R
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-<b>Python</b>
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/><br>
+Tableau
 </td>
 
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="50"/><br>
-<b>R</b>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="60"/><br>
+Power BI
 </td>
+
 </tr>
 </table>
+
 </p>
+---
 
 ## 📌 Featured Projects
 
