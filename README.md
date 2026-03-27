@@ -14,16 +14,39 @@
 
 <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git" />
 
-</p>
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/Stata-Statistical-blue" />
-<img src="https://img.shields.io/badge/SPSS-Analytics-lightgrey" />
-<img src="https://img.shields.io/badge/Bloomberg-Finance-yellow" />
+<!-- SQL -->
+<div align="center" style="display: inline-block; margin: 15px;">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+  <sub><b>SQL</b></sub>
+</div>
+
+<!-- Tableau -->
+<div align="center" style="display: inline-block; margin: 15px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/><br>
+  <sub><b>Tableau</b></sub>
+</div>
+
+<!-- Power BI -->
+<div align="center" style="display: inline-block; margin: 15px;">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>
+  <sub><b>Power BI</b></sub>
+</div>
+
+<!-- Python -->
+<div align="center" style="display: inline-block; margin: 15px;">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+  <sub><b>Python</b></sub>
+</div>
+
+<!-- R -->
+<div align="center" style="display: inline-block; margin: 15px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="50"/><br>
+  <sub><b>R</b></sub>
+</div>
 
 </p>
-
 ---
 
 ## 📌 Featured Projects
