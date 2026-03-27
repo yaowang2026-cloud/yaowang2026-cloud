@@ -43,7 +43,6 @@ Power BI
 
 </p>
 
----
 
 ## 📌 Featured Projects
 
